@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-sass-hairdresser-project/static/css/main.14eb651a.chunk.css",
+    "main.js": "/react-sass-hairdresser-project/static/js/main.a339d812.chunk.js",
+    "main.js.map": "/react-sass-hairdresser-project/static/js/main.a339d812.chunk.js.map",
+    "runtime-main.js": "/react-sass-hairdresser-project/static/js/runtime-main.ddf46969.js",
+    "runtime-main.js.map": "/react-sass-hairdresser-project/static/js/runtime-main.ddf46969.js.map",
+    "static/js/2.c37fac76.chunk.js": "/react-sass-hairdresser-project/static/js/2.c37fac76.chunk.js",
+    "static/js/2.c37fac76.chunk.js.map": "/react-sass-hairdresser-project/static/js/2.c37fac76.chunk.js.map",
+    "index.html": "/react-sass-hairdresser-project/index.html",
+    "static/css/main.14eb651a.chunk.css.map": "/react-sass-hairdresser-project/static/css/main.14eb651a.chunk.css.map",
+    "static/js/2.c37fac76.chunk.js.LICENSE.txt": "/react-sass-hairdresser-project/static/js/2.c37fac76.chunk.js.LICENSE.txt",
+    "static/media/banner.502afe7c.jpg": "/react-sass-hairdresser-project/static/media/banner.502afe7c.jpg",
+    "static/media/beard_trim.2e1cfc1f.png": "/react-sass-hairdresser-project/static/media/beard_trim.2e1cfc1f.png",
+    "static/media/beard_trim.96b35bae.jpg": "/react-sass-hairdresser-project/static/media/beard_trim.96b35bae.jpg",
+    "static/media/bottom-banner.7cb45e92.jpg": "/react-sass-hairdresser-project/static/media/bottom-banner.7cb45e92.jpg",
+    "static/media/face_mask.5026b491.jpg": "/react-sass-hairdresser-project/static/media/face_mask.5026b491.jpg",
+    "static/media/haircut.7a397feb.jpg": "/react-sass-hairdresser-project/static/media/haircut.7a397feb.jpg",
+    "static/media/haircut.9105c405.jpg": "/react-sass-hairdresser-project/static/media/haircut.9105c405.jpg",
+    "static/media/hot_towel.5c364837.jpg": "/react-sass-hairdresser-project/static/media/hot_towel.5c364837.jpg",
+    "static/media/hot_towel.998f0505.jpg": "/react-sass-hairdresser-project/static/media/hot_towel.998f0505.jpg",
+    "static/media/kids_haircut.1b03f596.jpg": "/react-sass-hairdresser-project/static/media/kids_haircut.1b03f596.jpg",
+    "static/media/skin_fade.1145675b.jpg": "/react-sass-hairdresser-project/static/media/skin_fade.1145675b.jpg",
+    "static/media/wax.29e13f35.jpg": "/react-sass-hairdresser-project/static/media/wax.29e13f35.jpg",
+    "static/media/wax.9677428e.webp": "/react-sass-hairdresser-project/static/media/wax.9677428e.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddf46969.js",
+    "static/js/2.c37fac76.chunk.js",
+    "static/css/main.14eb651a.chunk.css",
+    "static/js/main.a339d812.chunk.js"
+  ]
+}
