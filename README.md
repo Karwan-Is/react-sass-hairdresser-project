@@ -10,4 +10,4 @@ Then you can run:
 
 ### `To see it online open this link`
 
-karwan-is.github.io/react-sass-hairdresser-project/
+https://karwan-is.github.io/react-sass-hairdresser-project/
