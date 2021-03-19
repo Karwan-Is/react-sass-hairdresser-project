@@ -1,0 +1,16 @@
+@use 'variable';
+
+body, div, header, nav, main, section, article, footer, ul, li, a, img, p, h1, h2, h3, h4, h5, h6{
+    margin: 0;
+    padding: 0;
+    text-decoration: none ;
+    color: variable.$text-color;
+}
+
+
+body{
+    background-image: url('../images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}

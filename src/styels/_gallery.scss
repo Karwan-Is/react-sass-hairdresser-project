@@ -1,0 +1,36 @@
+@use 'variable';
+
+.gallery{
+    width: 902px;
+    margin: 50px auto;
+    .gallery-wrapper{
+        border: variable.$border-color 1px solid;
+        border-radius: 10px;
+        overflow: hidden;
+        margin: 30px 0;
+    }
+    .gallery-photo{
+        width: 400px;
+        float: left;
+        img{
+            display: block;
+            width: 400px;
+            height: 400px;
+        }
+    }
+    .gallery-description{
+        width: 500px;
+        height: 400px;
+        float: left;
+        h2{
+            text-align: center;
+            padding: 30px 0;
+        }
+        p{
+            text-align: justify;
+            padding: 0 50px;
+        }
+    }::after{
+        clear: both;
+    }
+}

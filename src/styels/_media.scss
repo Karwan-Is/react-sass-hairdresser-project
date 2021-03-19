@@ -1,0 +1,52 @@
+@media screen and(max-width:1200px){
+}
+
+@media screen and(max-width:900px){
+    .header nav{
+        .nav-logo{
+            width: 40%;
+        }
+        .dropdown{
+            width: 60%;
+        } 
+        .dropdown-content{
+            li{
+                width: 20%;
+            }
+            .nav-right{
+                float: left;
+            }
+        }
+    }
+}
+
+@media screen and(max-width:720px){
+    .header nav{
+        .hide-dropdown{
+            display: none;
+        }
+        .show-dropdown li{
+            position: absolute;
+            width: 100%;
+            display: block;
+            float: none;
+            z-index: 2;
+        }
+        .drop-btn{
+            display: block;
+            float: right;
+        }
+    }
+}
+
+@media screen and (max-width: 600px){
+
+}
+
+@media screen and (max-width: 500px){
+    
+}
+
+@media screen and (max-width: 400px){
+    
+}

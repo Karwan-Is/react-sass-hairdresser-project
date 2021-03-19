@@ -1,0 +1,11 @@
+@use 'variable';
+
+.footer{
+    clear: both;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 18px;
+    color: variable.$nav-color;
+    background-color: variable.$nav-bg-color;
+}

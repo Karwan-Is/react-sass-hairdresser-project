@@ -1,0 +1,26 @@
+@use 'variable';
+
+.register{
+    width: 500px;
+    margin: 100px auto 260px auto;
+    border: variable.$border-color 1px solid;
+    border-radius: 20px;
+    h2{
+        text-align: center;
+        padding:20px;
+    }
+    form{
+        width: 350px;
+        margin: 0 auto;
+        input{
+            width: 350px;
+            margin: 10px 0
+        }
+        button{
+            width: 100px;
+            margin-left: 125px;
+            margin-top: 10px;
+            margin-bottom: 40px;
+        }
+    }
+}

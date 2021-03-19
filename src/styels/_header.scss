@@ -1,0 +1,67 @@
+@use 'variable';
+
+%nav-a{
+    display: block;
+    padding: 16px 0;
+    color: variable.$nav-color;
+}
+
+.header{
+    nav{
+        overflow: hidden;
+        padding: 10px 0;
+        background-color: variable.$nav-bg-color;
+        .nav-logo{
+            width: 35%;
+            float: left;
+            text-align: center;
+            a{
+                @extend %nav-a;
+                margin-left: 30%;
+                font-size: 30px;
+            }
+            :hover{
+                color: variable.$nav-hover;
+            }
+        }
+        .dropdown{
+            width: 65%;
+            position: relative;
+            list-style-type: none;
+            float: left;
+            overflow: hidden;
+            margin-top: 10px;
+            
+        }
+        .dropdown-content{
+            li{
+                float: left;
+                width: 15%;
+                a{
+                    @extend %nav-a;
+                    padding: 16px 0;
+                }
+                :hover{
+                    color: variable.$nav-hover;
+                }
+            }
+            .nav-right{
+                width: 25%;
+                float: right;
+            }
+        }
+        .drop-btn{
+            display: none;
+            cursor: pointer;
+            padding: 4px 6px 8px;
+            span {
+                display: block;
+                width: 45px;
+                height: 6px;
+                margin-top: 6px;
+                background: variable.$nav-color;
+                border-radius: 3px;
+            }
+        }
+    }    
+}
